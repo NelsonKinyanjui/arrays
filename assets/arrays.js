@@ -1,2 +1,8 @@
 const fruits = ['mango','apple','banana','passion'];
-console.log(fruits[0]);
+ let fLen = fruits.length
+ let text = '<ul>';
+ for (i = 0; i < fLen; i++){
+    text += '<li>' + fruits[i] +'</li>';
+
+ } text += '</ul>';
+    console.log();
