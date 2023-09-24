@@ -6,3 +6,9 @@ const fruits = ['mango','apple','banana','passion'];
 
  } text += '</ul>';
     console.log();
+
+    for (i = 0; i <= 100; i++){
+      console.log('My Name is Collins');
+
+    }
+ 
